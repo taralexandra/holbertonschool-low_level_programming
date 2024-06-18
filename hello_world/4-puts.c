@@ -5,7 +5,7 @@
  * suite
  * suite
  * bla
- * bla
+ * Return: 0
  */
 int main(void)
 {
