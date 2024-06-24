@@ -7,14 +7,16 @@
  */
 void more_numbers(void)
 {
-	int boucledix, chiffres;
+	int i, j;
 
-	for (boucledix = 0; boucledix < 10; boucledix++)
+	for (i = 0; i < 10; i++)
 	{
-		for (chiffres = 0; chiffres <= 14; chiffres++)
+		for (j = 0; j < 15; j++)
 		{
-			_putchar(chiffres + '0');
+			if (j >= 10)
+				_putchar(j / 10 + '0');
+			_putchar(j % 10 + '0');
 		}
-	}
 		_putchar('\n');
+	}
 }
