@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * *_strcat - check the code
+ * *_strncat - check the code
  * @dest: string to append
  * @src: string to add
  * @n: number of bytes of str to concatenate
