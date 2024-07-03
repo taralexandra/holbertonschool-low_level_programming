@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 /**
-  * main - Additionner deux chiffres positifs
+  * main - Additionner des chiffres positifs
   * @argv: le tableau d'arguments.
   * @argc: le nombre d'aguments.
   * Return: 0 si fonctionne et 1 s'il y a un symbole
@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 		return (0);
 	}
 
-	for (i = 0; i < argc; i++)
+	for (i = 1; i < argc; i++)
 	{
 
 		for (j = 0; argv[i][j] != '\0'; j++)
