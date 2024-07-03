@@ -20,7 +20,7 @@ int fonction_test(int n, int i)
 }
 
 /**
-  * _sqrt_recursion -
+  * _sqrt_recursion - retourner racine carrée nat d'un nbr.
   *
   * @n: Le nombre dont on cherche la racine carrée.
   * Return: Racine carrée de n ou -1 si n n'a pas de racine carrée naturelle.
@@ -35,5 +35,5 @@ int _sqrt_recursion(int n)
 	{
 		return (-1);
 	}
-	return (fonction_test(n, 1));
+	return (fonction_test(n, 0));
 }
