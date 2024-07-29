@@ -4,7 +4,7 @@
 
 Tara QUARTERO is the owner of this file. Campus Fréjus.
 
-## About the tasks of this project :
+## :wrench: Lets talk of the tasks of this project :
 
 ### Task 0 - Write a function  that prints all the elements of a `list_t` list.
 
@@ -15,5 +15,11 @@ Tara QUARTERO is the owner of this file. Campus Fréjus.
 ### Task 3 - Write a function that adds a new node at the end of a `list_t` list.
 
 ### Task 4 - Write a function that frees a `list_t` list.
+
+---
+
+## :woman_technologist: Meet the author :woman_technologist: :fr: :
+
+- :blue_square: LinkedIn : [Access to this account](https://www.linkedin.com/in/tara-alexandra-quartero-a34534177/)
 
 
