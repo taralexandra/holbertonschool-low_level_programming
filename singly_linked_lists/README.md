@@ -1,5 +1,5 @@
-# This Readme file presents the project named Linked lists
-
+# Readme file for the project Linked lists :chains: :ledger: 
+This file is accociated to the project Linked Lists - Part 1.
 ## :file_folder: About this project...
 
 Tara QUARTERO is the owner of this file. Campus Fréjus.
