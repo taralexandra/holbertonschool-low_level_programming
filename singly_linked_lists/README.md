@@ -1,6 +1,6 @@
 # This Readme file presents the project named Linked lists
 
-## `:file_folder:` About this project...
+## :file_folder: About this project...
 
 Tara QUARTERO is the owner of this file. Campus Fréjus.
 
