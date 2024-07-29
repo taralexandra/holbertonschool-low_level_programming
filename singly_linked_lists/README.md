@@ -1,6 +1,6 @@
-<h1 style="color:blue;">This Readme file presents the project named Linked lists</h1>
+# This Readme file presents the project named Linked lists
 
-## About this project...
+## `:file_folder:` About this project...
 
 Tara QUARTERO is the owner of this file. Campus Fréjus.
 
