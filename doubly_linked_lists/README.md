@@ -1,6 +1,6 @@
 # Readme file for the project Doubly linked lists :chains: :chains:  :ledger: 
 
-This file is accociated to the project Linked Lists - Part 2 => doubly linked lists (listes doublement chaînées).
+- This file is accociated to the project Linked Lists - Part 2 => doubly linked lists (listes doublement chaînées).
 
 ## :file_folder: About this project...
 

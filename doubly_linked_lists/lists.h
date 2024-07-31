@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 
-/* Lets define the struct */
+/* Let's define the struct */
 
 /**
   * struct dlistint_s - structure wich represents a node
