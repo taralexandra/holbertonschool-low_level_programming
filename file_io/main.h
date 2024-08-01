@@ -1,6 +1,11 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+/* Basic libraries */
+
+#include <stdio.h>
+#include <stdlib.h>
+
 /* Prototype of _putchar */
 int _putchar(char c);
 
