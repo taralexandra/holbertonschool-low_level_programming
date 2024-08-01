@@ -10,7 +10,12 @@ Tara QUARTERO is the owner of this file. Campus Fréjus. :tipping_hand_woman:
 
 To complete at the end of the project.
 
-### :small_orange_diamond: Task 0 -
+### :small_orange_diamond: Task 0 - Write a function that converts a binary number to an unsigned int.
+### :small_orange_diamond: Task 1 - Write a function that prints the binary representation of a number.
+### :small_orange_diamond: Task 2 - Write a function that returns the value of a bit at a given index.
+### :small_orange_diamond: Task 3 - Write a function that sets the value of a bit to 1 at a given index.
+### :small_orange_diamond: Task 4 - Write a function that sets the value of a bit to 0 at a given index.
+### :small_orange_diamond: Task 5 - Write a function that returns the number of bits you would need to flip to get from one number to another.
 
 ## :woman_technologist: Meet the author :woman_technologist: :fr: :
 
