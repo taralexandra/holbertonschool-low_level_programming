@@ -1,6 +1,6 @@
 #include "main.h"
 
-#define BUFFERSIZE 1204
+#define BUFFERSIZE 1024
 
 /**
   * main - Copies content.
