@@ -8,7 +8,7 @@ Tara QUARTERO is the owner of this file. Campus Fréjus. :tipping_hand_woman:
 
 ## :hammer_and_wrench: Lets talk about the tasks of this project :
 
-To complete at the end of the project.
+Here is a summary of the tasks of this project and the goal to achieve for each.
 
 ### :small_orange_diamond: Task 0 - Write a function that converts a binary number to an unsigned int.
 ### :small_orange_diamond: Task 1 - Write a function that prints the binary representation of a number.
